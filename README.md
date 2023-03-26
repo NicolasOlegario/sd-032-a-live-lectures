@@ -1,7 +1,7 @@
 # sd-032-a-live-lectures
 # Repositorio de aulas ao vivo para estudantes da turma 32 - tribo A
 
-Este repositorio armaena os codigos e scripts fornecidos durante as aulas ao vivo pelos especialistas da trybe.
+Este repositorio armzaena os codigos e scripts fornecidos durante as aulas ao vivo pelos especialistas da trybe.
 
 ## Começando
 
