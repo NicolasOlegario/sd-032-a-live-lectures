@@ -3,7 +3,8 @@
 
 Este repositorio armzaena os codigos e scripts fornecidos durante as aulas ao vivo pelos especialistas da trybe.
 
-## Começando
+Descriçãoã
+##Começando
 
 Basta clonar o repositorio
 gis clone git@github.com:tryber/sd-32-a-live-lectures.git
